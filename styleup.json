@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "zoterogpt@polygon.org": {
+      "updates": [
+        {
+          "version": "5.4.4",
+          "update_link": "https://github.com/zhichanquan/Style/releases/download/544/style-544.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
