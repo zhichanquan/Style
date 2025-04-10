@@ -3,8 +3,8 @@
     "zoterostyle@polygon.org": {
       "updates": [
         {
-          "version": "5.4.4",
-          "update_link": "https://github.com/zhichanquan/Style/releases/download/544/style-544.xpi",
+          "version": "5.4.8",
+          "update_link": "https://github.com/zhichanquan/Style/releases/download/Style/style-548.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
