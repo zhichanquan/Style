@@ -1,3 +1,1 @@
 # Style
-
-Wechat: `zhichanquan888`
